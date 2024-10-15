@@ -90,15 +90,15 @@
  <table style="width: 100%;">
     <tr>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Goruntu Islme Sonuclari 1 </h4>
+            <h4 style="font-size: 14px;">Görüntü İşleme Sonuçları 1 </h4>
             <img src="https://github.com/user-attachments/assets/2b0ef975-1fcd-4680-9d7e-a545cf4fdb39" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Goruntu Islme Sonuclari 2</h4>
+            <h4 style="font-size: 14px;">Görüntü İşleme Sonuçları 2</h4>
             <img src="https://github.com/user-attachments/assets/6c1c2e26-2d45-4c9b-a34b-f06eeab20c14" style="width: 100%; height: auto;">
         </td>
       <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Goruntu Islme Sonuclari 3</h4>
+            <h4 style="font-size: 14px;">Görüntü İşleme Sonuçları 3</h4>
             <img src="https://github.com/user-attachments/assets/88838ad5-0166-4804-b627-fdbdc8174dbd" style="width: 100%; height: auto;">
         </td>
     </tr>
